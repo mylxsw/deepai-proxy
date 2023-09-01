@@ -8,9 +8,6 @@
 
 然后在 Settings 选项卡里可以设置自定义二级域名，或者绑定自己的域名。
 
-或者，访问 https://deno.new 域名，把 deno.ts 复制到 Playground 中，点击 Play
-按钮。
-
 ## 本地开发
 
 ```bash
